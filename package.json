@@ -1,0 +1,24 @@
+{
+  "name": "rollupper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "dependencies": {
+    "rollup": "^3.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyhyuk/rollupper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyhyuk/rollupper/issues"
+  },
+  "homepage": "https://github.com/mightyhyuk/rollupper#readme"
+}
