@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "rollup.config.js",
+  "type": "module",
   "dependencies": {
     "rollup": "^3.18.0"
   },
