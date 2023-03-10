@@ -1,13 +1,11 @@
 {
   "name": "rollupper",
-  "version": "1.0.0",
-  "description": "",
-  "main": "rollup.config.js",
   "type": "module",
   "devDependencies": {
     "rollup": "^3.19.0"
   },
   "scripts": {
+    "build": "rollup --config",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
