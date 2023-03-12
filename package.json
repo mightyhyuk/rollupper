@@ -4,6 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-terser": "^0.4.0",
     "rollup": "^3.19.0"
   },
   "scripts": {
